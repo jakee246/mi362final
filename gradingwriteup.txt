@@ -1,0 +1,13 @@
+Your final project grade will be out of 1000 points. You must complete the 3 tasks that are required (one of which is reserving 100 points for discretionary grading) + 700 points of remaining tasks of your choosing.
+
+100 - Hosted on Heroku (Required) - https://gentle-springs-69065.herokuapp.com/post.html
+100 - Custom domain name (Required) - evolvestrong.com
+100 - Instructor/discretionary (Required, looking for quality, originality, spelling/grammer, overall project polish) 
+300 - 4 complete HTML pages with content - 5 pages where created for a local seo blog. Pages that were created was a home page, services page, about us page, contact, and a single blog post.
+200 - Custom CSS or Bootstrap for design (all pages) - all the pages use a custom bootstrap page. The design is the same across. 
+50 - Use at least two custom images (original photography or illustration) - two images I used I took myself one was used as the header image for the blog post and the other was used on the contact page.
+50 - Integrate a JavaScript component - I built a custom javascript app on the services page to calculate the amount it would cost for our monthly services. You select the services and it tells you the price.
+50 - Integrate non-Heroku 3rd party widget - The social sharing widget on the posts page and home page.
+50 - Use a 3rd party font icon like FontAwesome - On the services page the icons appear next to each service.
+_______
+1000pts
